@@ -3,7 +3,6 @@
 - 🔭 &nbsp; I’m currently working on my <a href="https://github.com/gretadolcetti/Thesis">thesis project</a><br>
 - 🧐 &nbsp; Interested in technology, medicine, fast cars and volleyball<br>
 - 🧠 &nbsp; I’m currently learning <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a> and <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original-wordmark.svg" alt="flutter" width="20" height="20"/> </a><br>
-- 📫 &nbsp; How to reach me: gretadolcetti@gmail.com<br>
 <!--
 - 👯 &nbsp; I’m looking to collaborate on ... 
 - 😄 &nbsp; Pronouns: ...
