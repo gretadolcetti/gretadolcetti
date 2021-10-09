@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1EB8F7&vCenter=true&width=600&lines=Hello+World!+I'm+Greta%2C+a+Computer+Science+student!)](https://git.io/typing-svg)
 - 🎓 &nbsp; Bachelor of Science in Computer Science at University of Parma<br>
 - 🔭 &nbsp; I’m currently working on my <a href="https://github.com/gretadolcetti/Thesis">thesis project</a><br>
-- 🧐 &nbsp; Interested in technology, medicine, fast cars and volleyball<br>
+- 🧐 &nbsp; Interested in technology, medicine, fast cars and traveling<br>
 - 🧠 &nbsp; I’m currently learning <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a> and <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original-wordmark.svg" alt="flutter" width="20" height="20"/> </a><br>
 <!--
 - 👯 &nbsp; I’m looking to collaborate on ... 
