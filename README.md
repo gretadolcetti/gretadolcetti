@@ -1,9 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1EB8F7&vCenter=true&width=600&lines=Hello+World!+I'm+Greta%2C+a+Computer+Science+student!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1EB8F7&vCenter=true&width=600&lines=Hello+World!+I'm+Greta+:\))](https://git.io/typing-svg)
 - 🎓 &nbsp; Bachelor of Science in Computer Science at University of Parma<br>
-- 📚 &nbsp; Master of Science in Computer Science at University of Parma<br>
-- 🔭 &nbsp; I’m currently working on some secret stuff 
-- 🧐 &nbsp; Interested in technology, medicine, fast cars and traveling<br>
-- 🧠 &nbsp; I’m currently learning <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> </a> and <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/dart/dart-original-wordmark.svg" alt="flutter" width="20" height="20"/> </a><br>
+- 🎓 &nbsp; Master of Science in Computer Science at University of Parma<br>
+- 📚 &nbsp; I’m currently a PhD Candidate at Ca' Foscari University of Venice<br>
 <!--
 - 👯 &nbsp; I’m looking to collaborate on ... 
 - 😄 &nbsp; Pronouns: ...
@@ -33,6 +31,8 @@
   <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2880px-PyTorch_logo_black.svg.png" alt="pytorch" width="80" height="40"/> </a> 
+  <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2880px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="80" height="40"/> </a>
 </p>
 
 <h3 align="left">🌐 Web:</h3>
