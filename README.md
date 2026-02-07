@@ -15,25 +15,86 @@
 <a href="https://github.com/gretadolcetti/" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/f1f814e7e8dfedc8b2c0ca727f58a6d35d3a7a89/icons/github.svg" alt="https://github.com/gretadolcetti" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">💻 Languages:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.minizinc.org/" target="_blank"> <img src="https://www.minizinc.org/MiniZn_logo.png" alt="minizinc" width="40" height="40"/> </a> 
-</p>
+  <p>
+      <a href="https://www.python.org" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+              alt="python" width="40" height="40" />
+      </a>
+      <a href="https://www.w3schools.com/cpp/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+              alt="cplusplus" width="40" height="40" />
+      </a>
+      <a href="https://www.java.com" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+              alt="java" width="40" height="40" />
+      </a>
+      <a href="https://www.postgresql.org/" target="_blank">
+          <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40"
+              height="40" />
+      </a>
+      <a href="https://www.mathworks.com/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab"
+              width="40" height="40" />
+      </a>
+      <a href="https://www.linux.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+              alt="linux" width="40" height="40" />
+      </a>
+      <a href="https://www.latex-project.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex"
+              width="40" height="40" />
+      </a>
+  </p>
 
 <h3 align="left">⚙️ Framework and Tools:</h3>
-<p align="left"> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2880px-PyTorch_logo_black.svg.png" alt="pytorch" width="80" height="40"/> </a> 
-  <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2880px-Scikit_learn_logo_small.svg.png" alt="scikit-learn" width="80" height="40"/> </a>
-</p>
+  <p>
+      <a href="https://huggingface.co/" target="_blank">
+          <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface"
+              width="40" height="40" />
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~v2.svg" alt="flask"
+              width="40" height="40" />
+      </a>
+      <a href="https://www.docker.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+              alt="docker" width="40" height="40" />
+      </a>
+      <a href="https://kubernetes.io" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes"
+              width="40" height="40" />
+      </a>
+      <a href="https://pytorch.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2880px-PyTorch_logo_black.svg.png"
+              alt="pytorch" width="80" height="40" />
+      </a>
+      <a href="https://scikit-learn.org/stable/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2880px-Scikit_learn_logo_small.svg.png"
+              alt="scikit-learn" width="80" height="40" />
+      </a>
+      <a href="https://pandas.pydata.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas"
+              width="80" height="40" />
+      </a>
+      <a href="https://numpy.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy"
+              width="80" height="40" />
+      </a>
+      <a href="https://matplotlib.org/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"
+              alt="matplotlib" width="40" height="40" />
+      </a>
+      <a href="https://seaborn.pydata.org/" target="_blank">
+          <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="80"
+              height="40" />
+      </a>
+      <a href="https://git-scm.com/" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="git" width="80"
+              height="40" />
+      </a>
+  </p>
 
 <!---
 <h3 align="left">🌐 Web:</h3>
